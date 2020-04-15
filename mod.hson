@@ -1,0 +1,6 @@
+name: "Mod"
+displayName: "[orange]Mod" 
+author: "Alexis ANSTETT" 
+description: "Un simple mod en français" 
+version: "dev" 
+minGameVersion: "103"
